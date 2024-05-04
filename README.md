@@ -6,10 +6,10 @@
 
 <h3 align="center">A passionate Full Stack developer and UI/UX designer ♻️</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=wasimfaiz&label=Profile%20views&color=0e75b6&style=flat" alt="wasimfaiz" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=devparamjeet&label=Profile%20views&color=blueviolet&style=flat" alt="devparamjeet" /> </p>
 <p align="left"> <a href="https://www.instagram.com/__mr.param__/" target="blank">Follow</a> </p>
 
-- 🔭 Working on <a href="" target="_blank">.......</a>
+- 🔭 Working on <a href="https://gravitycoding.com" target="_blank">Gravity Coding</a>
 
 <!-- - 🌱 I’m currently learning  **** -->
 
