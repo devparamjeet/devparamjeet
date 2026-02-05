@@ -10,7 +10,7 @@ I am Paramjeet Chaudhary, people call me Param, a passionate Full Stack develope
 
 - 👯 I’m looking to collaborate with other content creators **.**
 
-- 🥅 2024 Goals: Contribute more to Open Source projects **.**
+- 🥅 2026 Goals: Contribute more to Open Source projects **.**
 
 - 💬 Ask me about **Web development ,BackEnd ,Database , Javascript , UI design**
 
