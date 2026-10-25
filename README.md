@@ -1,7 +1,5 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=200&section=header&text=PARAMJEET%20CHAUDHARY&fontSize=42&fontColor=ffffff&fontAlignY=42&desc=FULL%20STACK%20%26%20REACT%20DEVELOPER&descSize=16&descColor=aaaaaa&descAlignY=65" width="100%" alt="Paramjeet Chaudhary — Full Stack Developer" />
-
+<img src="./assets/header.svg" width="100%" alt="Paramjeet Chaudhary — Full Stack Developer" />
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3000&pause=1000&color=999999&center=true&vCenter=true&width=700&height=40&lines=Building+scalable+web+applications;React.js+%C2%B7+JavaScript+%C2%B7+Node.js+%C2%B7+MongoDB;Clean+UI+%C2%B7+REST+APIs+%C2%B7+Performance;Developing+real-world+products+at+Sagar+Informatics;Teaching+and+sharing+knowledge+through+Gravity+Coding" alt="Developer introduction" />
 
 <br/>
@@ -135,6 +133,6 @@ I also have experience teaching React.js and mentoring aspiring developers throu
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=60&section=footer" width="100%" alt="Footer"/>
+<img src="./assets/footer.svg" width="100%" alt="Footer"/>
 
 </div>
