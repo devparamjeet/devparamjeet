@@ -1,154 +1,140 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,50:9D4EDD,100:FF2E97&height=240&section=header&text=PARAMJEET&fontSize=80&fontColor=0d1117&fontAlignY=38&animation=twinkling&desc=%3C%20Full%20Stack%20Developer%20%2F%3E&descSize=22&descAlignY=60&descColor=0d1117" width="100%" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=200&section=header&text=PARAMJEET%20CHAUDHARY&fontSize=42&fontColor=ffffff&fontAlignY=42&desc=FULL%20STACK%20%26%20REACT%20DEVELOPER&descSize=16&descColor=aaaaaa&descAlignY=65" width="100%" alt="Paramjeet Chaudhary — Full Stack Developer" />
 
-<a href="https://github.com/devparamjeet">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=00F5FF&center=true&vCenter=true&width=720&height=50&lines=%24+whoami+%E2%86%92+Paramjeet+Chaudhary;%24+role+%E2%86%92+Full+Stack+Developer+%E2%9A%A1;%24+building+%E2%86%92+Gravity+Coding+%F0%9F%9A%80;%24+open_to+%E2%86%92+collabs+%26+open+source+%F0%9F%A4%9D;%24+status+%E2%86%92+shipping+code+24%2F7+%F0%9F%94%A5" alt="typing"/>
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3000&pause=1000&color=999999&center=true&vCenter=true&width=700&height=40&lines=Building+scalable+web+applications;React.js+%C2%B7+JavaScript+%C2%B7+Node.js+%C2%B7+MongoDB;Clean+UI+%C2%B7+REST+APIs+%C2%B7+Performance;Developing+real-world+products+at+Sagar+Informatics;Teaching+and+sharing+knowledge+through+Gravity+Coding" alt="Developer introduction" />
 
 <br/>
 
-<img src="https://img.shields.io/badge/STATUS-ONLINE-00F5FF?style=for-the-badge&labelColor=0d1117&logo=statuspage&logoColor=00F5FF"/>
-<img src="https://img.shields.io/badge/LOCATION-NOIDA%2C%20IN-FF2E97?style=for-the-badge&labelColor=0d1117&logo=googlemaps&logoColor=FF2E97"/>
-<img src="https://img.shields.io/badge/MODE-BUILDER-9D4EDD?style=for-the-badge&labelColor=0d1117&logo=hackthebox&logoColor=9D4EDD"/>
-<img src="https://komarev.com/ghpvc/?username=devparamjeet&label=VIEWS&color=00F5FF&style=for-the-badge&labelColor=0d1117"/>
+<a href="https://devparamjeet.tech"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+<a href="https://www.linkedin.com/in/paramjeetchaudhary/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://www.youtube.com/@gravitycoding"><img src="https://img.shields.io/badge/YouTube-000000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
+<a href="https://x.com/devparamjeet"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
+<a href="mailto:parmjeetdell1@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
 </div>
 
 <br/>
 
-## `~/about`
+Full Stack Developer with **3.5+ years of experience** building responsive user interfaces, scalable web applications, and API-driven products.
 
-```bash
-┌──(param㉿gravity)-[~]
-└─$ cat about.json
-```
-```json
-{
-  "name": "Paramjeet Chaudhary",
-  "alias": "Param",
-  "role": "Full Stack Developer",
-  "company": "Sagar Informatics Pvt Ltd",
-  "location": "Noida, Uttar Pradesh 🇮🇳",
-  "building": "Gravity Coding 🌌",
-  "obsessed_with": ["Web Dev", "Backend", "Databases", "JavaScript", "UI Design"],
-  "goal_2026": "Ship more. Contribute more to Open Source 💜",
-  "fuel": "chai ☕ + curiosity",
-  "open_to": ["collabs", "open-source", "wild ideas"]
-}
-```
+Currently working as a **Software Developer at Sagar Informatics Pvt. Ltd.**, contributing to production applications, frontend development, API integration, and collaboration with backend teams.
+
+I also have experience teaching React.js and mentoring aspiring developers through Gravity Coding.
+
+- Building and maintaining real-world web applications
+- Experienced in reusable React components, state management, and REST API integration
+- Working with backend teams, databases, and SVN-based version control
+- Passionate about clean UI, performance optimization, and maintainable code
+- Interested in open source, developer education, and scalable software architecture
 
 <br/>
 
-## `~/stack`
-
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,nodejs,express,python,java,cpp,mongodb,postgres,mysql,aws,azure,gcp,docker,git,github,figma&perline=12&theme=dark" alt="stack"/>
+**Frontend**
+
+<img src="https://img.shields.io/badge/JavaScript-000?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/TypeScript-000?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
+<img src="https://img.shields.io/badge/React.js-000?style=flat-square&logo=react&logoColor=white" alt="React.js"/>
+<img src="https://img.shields.io/badge/Vite-000?style=flat-square&logo=vite&logoColor=white" alt="Vite"/>
+<img src="https://img.shields.io/badge/HTML5-000?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
+<img src="https://img.shields.io/badge/CSS3-000?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-000?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
+<img src="https://img.shields.io/badge/Bootstrap-000?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+<img src="https://img.shields.io/badge/Redux_Toolkit-000?style=flat-square&logo=redux&logoColor=white" alt="Redux Toolkit"/>
+
+**Backend & APIs**
+
+<img src="https://img.shields.io/badge/Node.js-000?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+<img src="https://img.shields.io/badge/Express.js-000?style=flat-square&logo=express&logoColor=white" alt="Express.js"/>
+<img src="https://img.shields.io/badge/REST_APIs-000?style=flat-square&logo=json&logoColor=white" alt="REST APIs"/>
+<img src="https://img.shields.io/badge/JWT-000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT"/>
+<img src="https://img.shields.io/badge/PHP-000?style=flat-square&logo=php&logoColor=white" alt="PHP"/>
+
+**Databases**
+
+<img src="https://img.shields.io/badge/MongoDB-000?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
+<img src="https://img.shields.io/badge/MySQL-000?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
+<img src="https://img.shields.io/badge/Mongoose-000?style=flat-square&logo=mongoose&logoColor=white" alt="Mongoose"/>
+
+**Tools & Deployment**
+
+<img src="https://img.shields.io/badge/SVN-000?style=flat-square&logo=subversion&logoColor=white" alt="SVN"/>
+<img src="https://img.shields.io/badge/Git-000?style=flat-square&logo=git&logoColor=white" alt="Git"/>
+<img src="https://img.shields.io/badge/Postman-000?style=flat-square&logo=postman&logoColor=white" alt="Postman"/>
+<img src="https://img.shields.io/badge/Linux-000?style=flat-square&logo=linux&logoColor=white" alt="Linux"/>
+<img src="https://img.shields.io/badge/Nginx-000?style=flat-square&logo=nginx&logoColor=white" alt="Nginx"/>
+<img src="https://img.shields.io/badge/PM2-000?style=flat-square&logo=pm2&logoColor=white" alt="PM2"/>
+<img src="https://img.shields.io/badge/Figma-000?style=flat-square&logo=figma&logoColor=white" alt="Figma"/>
 
 </div>
 
 <br/>
 
-## `~/stats`
+### Featured projects
 
 <div align="center">
 
-<table>
-<tr>
-<td width="50%" align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=devparamjeet&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F5FF&icon_color=FF2E97&text_color=c9d1d9&include_all_commits=true&count_private=true&rank_icon=github" width="100%"/>
-</td>
-<td width="50%" align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devparamjeet&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F5FF&text_color=c9d1d9&langs_count=8" width="100%"/>
-</td>
-</tr>
-<tr>
-<td colspan="2" align="center">
-<img src="https://streak-stats.demolab.com/?user=devparamjeet&theme=tokyonight&hide_border=true&background=0d1117&ring=FF2E97&fire=FF2E97&currStreakLabel=00F5FF&sideLabels=9D4EDD&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e" width="100%"/>
-</td>
-</tr>
-<tr>
-<td colspan="2" align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devparamjeet&theme=tokyonight" width="100%"/>
-</td>
-</tr>
-</table>
+<a href="https://github.com/devparamjeet/Desire-cart"><img src="https://github-readme-stats.vercel.app/api/pin/?username=devparamjeet&repo=Desire-cart&hide_border=true&bg_color=000000&title_color=ffffff&text_color=bbbbbb&icon_color=ffffff" alt="Desire Cart"/></a>
+<a href="https://github.com/devparamjeet/DevDisplay"><img src="https://github-readme-stats.vercel.app/api/pin/?username=devparamjeet&repo=DevDisplay&hide_border=true&bg_color=000000&title_color=ffffff&text_color=bbbbbb&icon_color=ffffff" alt="DevDisplay"/></a>
+<a href="https://github.com/devparamjeet/NDR-AGROVENTURES-PVT-LTD"><img src="https://github-readme-stats.vercel.app/api/pin/?username=devparamjeet&repo=NDR-AGROVENTURES-PVT-LTD&hide_border=true&bg_color=000000&title_color=ffffff&text_color=bbbbbb&icon_color=ffffff" alt="NDR Agroventures"/></a>
+
+</div>
+<br/>
+
+### Github statistics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=devparamjeet&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=bbbbbb&icon_color=ffffff&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub statistics"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devparamjeet&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=bbbbbb&langs_count=7" alt="Most used languages"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=devparamjeet&hide_border=true&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=bbbbbb&currStreakNum=ffffff&sideNums=ffffff&dates=777777" width="85%" alt="GitHub contribution streak"/>
 
 </div>
 
 <br/>
 
-## `~/activity`
+### contributions
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=devparamjeet&bg_color=0d1117&color=00F5FF&line=FF2E97&point=ffffff&area=true&area_color=9D4EDD&hide_border=true&custom_title=Contribution%20Graph" width="100%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devparamjeet/devparamjeet/output-3d-contrib/night.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/devparamjeet/devparamjeet/output-3d-contrib/day.svg" />
+  <img src="https://raw.githubusercontent.com/devparamjeet/devparamjeet/output-3d-contrib/night.svg" width="100%" alt="3D GitHub contribution graph" />
+</picture>
 
 <br/><br/>
 
-<!-- 🐍 Snake: setup instructions below (needs the snake.yml workflow to run once) -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devparamjeet/devparamjeet/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/devparamjeet/devparamjeet/output/github-snake.svg" />
-  <img alt="snake" src="https://raw.githubusercontent.com/devparamjeet/devparamjeet/output/github-snake-dark.svg" width="100%" />
+  <img src="https://raw.githubusercontent.com/devparamjeet/devparamjeet/output/github-snake-dark.svg" width="100%" alt="Contribution snake animation" />
 </picture>
 
 </div>
 
 <br/>
 
-## `~/projects`
+### connect with me
 
 <div align="center">
 
-<a href="https://github.com/devparamjeet/Desire-cart">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=devparamjeet&repo=Desire-cart&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F5FF&icon_color=FF2E97&text_color=c9d1d9"/>
-</a>
-<a href="https://github.com/devparamjeet/DevDisplay">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=devparamjeet&repo=DevDisplay&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F5FF&icon_color=FF2E97&text_color=c9d1d9"/>
-</a>
-<a href="https://github.com/devparamjeet/NDR-AGROVENTURES-PVT-LTD">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=devparamjeet&repo=NDR-AGROVENTURES-PVT-LTD&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F5FF&icon_color=FF2E97&text_color=c9d1d9"/>
-</a>
-
-</div>
-
-<br/>
-
-## `~/now`
-
-```diff
-+ 🌌 Building    → Gravity Coding (gravitycoding.com)
-+ 🎥 Creating    → Dev content on YouTube @gravitycoding
-+ 🤝 Looking for → Collaborators & open-source projects
-+ 📚 Leveling up → Backend architecture, cloud & system design
-- 🐛 Bugs        → 404 not found (hopefully)
-```
-
-<br/>
-
-## `~/connect`
-
-<div align="center">
-
-<a href="https://devparamjeet.me"><img src="https://img.shields.io/badge/PORTFOLIO-00F5FF?style=for-the-badge&logo=googlechrome&logoColor=0d1117"/></a>
-<a href="https://www.linkedin.com/in/paramjeetchaudhary/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://www.youtube.com/@gravitycoding"><img src="https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-<a href="https://x.com/devparamjeet"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
-<a href="https://www.instagram.com/_devparamjeet/"><img src="https://img.shields.io/badge/INSTAGRAM-FF2E97?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-
-<a href="https://dev.to/devparamjeet"><img src="https://img.shields.io/badge/DEV.TO-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/></a>
-<a href="https://www.leetcode.com/devparamjeet"><img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=0d1117"/></a>
-<a href="https://www.hackerrank.com/devparamjeet"><img src="https://img.shields.io/badge/HACKERRANK-00EA64?style=for-the-badge&logo=hackerrank&logoColor=0d1117"/></a>
-<a href="https://dribbble.com/devparamjeet"><img src="https://img.shields.io/badge/DRIBBBLE-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white"/></a>
-<a href="https://www.behance.net/devparamjeet"><img src="https://img.shields.io/badge/BEHANCE-1769FF?style=for-the-badge&logo=behance&logoColor=white"/></a>
-<a href="mailto:parmjeetdell1@gmail.com"><img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/paramjeetchaudhary/">LinkedIn</a> ·
+<a href="https://www.youtube.com/@gravitycoding">YouTube</a> ·
+<a href="https://x.com/devparamjeet">X</a> ·
+<a href="https://www.instagram.com/_devparamjeet/">Instagram</a> ·
+<a href="https://dev.to/devparamjeet">Dev.to</a> ·
+<a href="https://www.leetcode.com/devparamjeet">LeetCode</a> ·
+<a href="https://codepen.io/devparamjeet">CodePen</a> ·
+<a href="https://devparamjeet.tech">Portfolio</a>
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=4000&pause=1000&color=FF2E97&center=true&vCenter=true&width=600&lines=%22Talk+is+cheap.+Show+me+the+code.%22;%3C+Keep+building.+Keep+shipping.+%2F%3E+%F0%9F%9A%80" alt="quote"/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF2E97,50:9D4EDD,100:00F5FF&height=130&section=footer&reversal=true" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=60&section=footer" width="100%" alt="Footer"/>
 
 </div>
