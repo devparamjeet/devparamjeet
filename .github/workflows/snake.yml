@@ -2,11 +2,11 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 */12 * * *"   # har 12 ghante mein update
+    - cron: "0 */12 * * *" 
   workflow_dispatch:          # manually bhi run kar sakte ho
   push:
     branches:
-      - main                  # agar tera default branch master hai to yahan master likh dena
+      - master                  
 
 permissions:
   contents: write
